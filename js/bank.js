@@ -7,7 +7,7 @@ document.getElementById('btn-clicked'),addEventListener('click', function(){
         window.location.href = "calculation.html";
     }
     else{
-        // alert('Wrong Password')
+        alert('Wrong Password')
 
     }
 })
